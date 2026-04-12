@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Arts in Applied Computing: Graphic Arts Concentration (class of 2026)
   <br /><br />
-  <a href="https://example.com/resume">View My Resume</a>
+  <a href="/pdf/Resume.pdf">View My Resume</a>
  
 repository: "mcabane/mcabane.github.io"
 github_username:  mcabane # update with your username

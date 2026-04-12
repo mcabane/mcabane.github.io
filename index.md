@@ -53,8 +53,8 @@ Presentations
 
 ### [Charity Run Website - Team](/pdf/Charity-Run-Presentation.pdf)
 
-- **Class:User Interface Programming** 
-- **Grade:**
+- **Class: User Interface Programming** 
+- **Grade: A**
 
 
 ### [Data Analysis and Visualization](/pdf/Data Analysis and Visualization.pdf)

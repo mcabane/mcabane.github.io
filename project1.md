@@ -227,24 +227,52 @@ The user will be able to change between default and dark mode using the button. 
 
 ![screenshot](images/Landing-Page.png)  
 Fig 1. The landing page
+The landing page is only shown to users that are not logged in.  
+
+<br />
+<br />
 
 ![screenshot](images/Sign-Up-Page.png)  
 Fig 2. Sign Up Page
+To create an account users will be prompted to enter name, email, and password. 
+
+<br />
+<br />
 
 ![screenshot](images/Sign-Up-Page-Validation.png)  
-Fig 3. Feedback when an error occurs during sign up.
+Fig 3. Feedback when an error occurs during sign up. 
+The validation checks for any blank input field, email matches valid regex format, and that password is more than 6 characters.
+
+<br />
+<br />
 
 ![screenshot](images/Login-Page.png)  
-Fig 4. Login Page
+Fig 4. Login Page.
+The login page will prompt user for email and password. 
+
+<br />
+<br />
 
 ![screenshot](images/Dashboard-No-Tasks.png)  
 Fig 5. Dashboard with no tasks.
+When the account is successfully created the user will see the user dashboard. With no tasks created only the empty sections will be shown. 
+
+<br />
+<br />
 
 ![screenshot](images/User-Dashboard-Tasks.png)  
 Fig 6. Example of Dashboard with tasks
+When the user is logged in they will see all tasks they created in the user dashboard. 
+The counter will be displayed at top with the sections displayed underneath. 
+
+<br />
+<br />
 
 ![screenshot](images/Task-Creation-Page.png)  
 Fig 7. Task Creation Page
+
+<br />
+<br />
 
 ## Test Plan
 

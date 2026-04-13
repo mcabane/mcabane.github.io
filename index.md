@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:mj4cabane@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Stay on Track Web Application | CSCI 499](project 1)
+### [Stay on Track Web Application | CSCI 499](project1)
 
 ![Senior Project](images/Senior-Project-Thumbnail.png)
 

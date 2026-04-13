@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Stay on Track Web Application | CSCI 499]
 
-![Senior Project](images/User-Dashboard-Tasks.png)
+![Senior Project](images/Senior-Project-Thumbnail.png)
 
 ---
 ### [ClinVar Database Filter| CSCI 495]

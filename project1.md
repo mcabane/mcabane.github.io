@@ -274,33 +274,33 @@ Fig 7. Task Creation Page.
 <br />
 <br />
 
-![screenshot](images/First-Occurence.png)
+![screenshot](images/First-Occurence.png)  
 Fig 8. On Task Creation page the user will be able to set date of first occurence. 
 
 <br />
 <br />
 
-![screenshot](images/Flexible-Concrete-Date.png)
+![screenshot](images/Flexible-Concrete-Date.png)  
 Fig 9. On Task Creation page the user will be able to select between Flexible and Concrete. 
 Flexible allows for the date to be changed and Concrete locks the inital set date. 
 
 <br />
 <br />
 
-![screenshot](images/Recurrence-Type.png)
+![screenshot](images/Recurrence-Type.png)  
 Fig 10. On Task Creation page the user will be able to select between Completion date and Frequency date. 
 Completion date will set next recurrence based on when the tasks was completed. Frequency date will set next recurrence based on first occurence.
 
 <br />
 <br />
 
-![screenshot](images/Recurrence-Frequency.png)
+![screenshot](images/Recurrence-Frequency.png)  
 Fig 11. On Task Creation page the user will be able to select from dropdown the frequency of recurrence. There is also a selection option for custom. 
 
 <br />
 <br />
 
-![screenshot](images/Time-Unit-Select.png)
+![screenshot](images/Time-Unit-Select.png)  
 Fig 12. On Task creation page when selecting custom option in recurrence frequency, the user will be able to select time unit and integer value.
 Ex: Time unit of weeks and input value of 2 will set frequency to every 2 weeks. 
 

@@ -6,7 +6,7 @@ Stay on Track Web Application
 -   **Class: CSCI 498, 499** 
 -   **Grade: In Progress** 
 -   **Language(s): Ruby, Javascript, HTML/CSS** 
--   **Source Code Repository:** [Link to Repository]([https://guides.github.com/features/mastering-markdown/](https://github.com/mcabane/CSU-Senior-Project/tree/master))  
+-   **Source Code Repository:** [Link to Repository](https://github.com/mcabane/CSU-Senior-Project/tree/master)
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Statement of Purpose
@@ -231,7 +231,7 @@ deadline.
 **ID Number:** 12  
 **Type:** Personalization and Internationalization  
 **Description:**  
-Users will be able to select a color theme. 
+Users will be able to select a color theme.  
 **Rationale:**  
 Allows for the interface to match the user’s preference.  
 **Fit Criterion:**  
@@ -401,7 +401,7 @@ edit, or delete allows for a quick and efficient way to search.
 The user will be able to type in a search bar and apply filters by clicking
 checkboxes. The results should include tasks that are based on the user input
 such as the title and category. It should be able to handle partial matches and
-allows for filtering by date, level of urgency, or concrete/flexible deadline.
+allows for filtering by date, level of urgency, or concrete/flexible deadline.  
 **Priority:** Medium     
 **Dependencies:** ID 1
 

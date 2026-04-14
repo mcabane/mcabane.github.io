@@ -33,6 +33,10 @@ Research begin with researching types of appointments and maintenance that often
 forgotten. Completion of User-Interfacing Programming course. Followed by learning 
 more about Ruby on Rails, Fly.io for deployment, and turning illustrations into 
 SVG files.
+Useful resources: 
+- [Ruby on Rails documentation](https://api.rubyonrails.org/classes/ActiveSupport/Duration.html#method-i-to_i)
+- [For adding User Preferences - Aneeqa Khan](https://dev.to/aneeqakhan/a-developers-guide-to-browser-storage-local-storage-session-storage-and-cookies-4c5f)
+- [CSS and Buttons - W3schools](https://www.w3schools.com/cssref/pr_pos_z-index.php)
 
 ## Project Language(s)
 - Ruby on Rails

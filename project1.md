@@ -6,7 +6,7 @@ Stay on Track Web Application
 -   **Class: CSCI 498, 499** 
 -   **Grade: In Progress** 
 -   **Language(s): Ruby, Javascript, HTML/CSS** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Link to Repository]([https://guides.github.com/features/mastering-markdown/](https://github.com/mcabane/CSU-Senior-Project/tree/master))  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Statement of Purpose

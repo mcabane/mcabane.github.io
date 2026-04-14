@@ -37,6 +37,7 @@ Useful resources:
 - [Ruby on Rails documentation](https://api.rubyonrails.org/classes/ActiveSupport/Duration.html#method-i-to_i)
 - [For adding User Preferences - Aneeqa Khan](https://dev.to/aneeqakhan/a-developers-guide-to-browser-storage-local-storage-session-storage-and-cookies-4c5f)
 - [CSS and Buttons - W3schools](https://www.w3schools.com/cssref/pr_pos_z-index.php)
+- [Eventlisteners - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
 ## Project Language(s)
 - Ruby on Rails

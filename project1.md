@@ -633,13 +633,70 @@ measure improvement.
 satisfies users based on ratings.
 
 ## Test Results
+Comparison of the User Survey results from start of testing to last round of testing.
+
+Section 1: Ease of Use
+- How would you rate the navigation of the web application?
+  - 1 - Very difficult to navigate
+  - 9 - Very easy to navigate
+
+- How intuitive did you find the web application to be?
+  - 1 - Not intuitive, I was confused on how the web application worked.
+  - 9 - Very intuitive, I could determine how to complete tasks without 
+          confusion.
+![screenshot](images/Ease-of-Use-chart.png)
+
+
+Section 2: Visual design
+- How would you rate the following statement? The layout of the web application 
+  was very appealing.
+  - 1 - Strongly disagree
+  - 9 - Strongly agree
+
+- How would you rate the following statement? The design elements enhanced 
+  usability. (Fonts, colors, spacing, etc.)
+  - 1 - Strongly disagree
+  - 9 - Strongly agree
+
+- How would you rate the following statement? The interface felt modern and 
+  professional.
+  - 1 - Strongly disagree
+  - 9 - Strongly agree
+![screenshot](images/Visual-Design-chart.png)
+
+Section 3: Functionality
+- How would you rate the following statement? Features worked as expected 
+  without errors.
+  - 1 - Strongly disagree
+  - 9 - Strongly agree
+
+- How would you rate the following statement? I was able to accomplish the 
+  intended tasks successfully.
+  - 1 - Strongly disagree
+  - 9 - Strongly agree
+![screenshot](images/Functionality-chart.png)
+
+Section 4: User Satisfaction 
+- How would you rate the following statement? I would consider using this 
+  application in real-world scenarios.
+  - 1 - Strongly disagree
+  - 9 - Strongly agree
+![screenshot](images/User-satisfaction-chart.png)
 
 ## Challenges Overcome
 
 ## Future Enhancements
+The future enhancements includes the features that were in requirements:
+- Email notifications
+- Search function
+- Mobile optimization (app version)
+- Linking accounts
+- Calendar view
+- Schedule blocking
+- Customization
+- Accessibility 
 
 ## Defense Slides
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)

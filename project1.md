@@ -94,8 +94,8 @@ documents/licenses management.
 **Fit Criterion:**    
 When creating a task the user can choose the category it falls under or add a
 category to an existing task. The category is added by the user selecting the
-from the dropdown menu.  </br>
-**Priority:** High </br>
+from the dropdown menu.  
+**Priority:** High  
 **Dependencies:** ID 1, ID 2
 
 ---
@@ -188,7 +188,7 @@ Provides a visual representation of the user’s progress and to summarize if
 certain categories are being neglected.  
 **Fit Criterion:**    
 The counters will display the number of tasks in the sections: overdue, 
-upcoming, and completed. 
+upcoming, and completed.  
 **Priority:** Medium    
 **Dependencies:** ID 1, ID 2, ID 7
 
@@ -236,7 +236,7 @@ Users will be able to select a color theme.
 Allows for the interface to match the user’s preference.  
 **Fit Criterion:**  
 The user will be able to change between default and dark mode using the button. 
-The theme should apply with correct colors and maintain readability. 
+The theme should apply with correct colors and maintain readability.  
 **Priority:** Low  
 **Dependencies:** ID 3, ID 7
 ---
@@ -280,11 +280,11 @@ text overlapping.
 Reminders for special events that would require earlier preparation before date.  
 **Rationale:**  
 For events like birthdays or attending weddings, additional steps like ordering
-gifts or planning transportation like air travel might be needed.
+gifts or planning transportation like air travel might be needed.  
 **Fit Criterion:**    
 Special text appears along with the task on the dashboard to remind the user of
 preparation.  
-**Priority:** Low    
+**Priority:** Low  
 **Dependencies:** ID 7
 
 ---
@@ -299,7 +299,7 @@ information needed is likely to be forgotten. Information like passwords or
 location of items.  
 **Fit Criterion:**  
 The notes will be viewed on separate page and are labeled by the task they
-belong to.
+belong to.  
 **Priority:** Low    
 **Dependencies:** ID 7
 
@@ -402,7 +402,7 @@ The user will be able to type in a search bar and apply filters by clicking
 checkboxes. The results should include tasks that are based on the user input
 such as the title and category. It should be able to handle partial matches and
 allows for filtering by date, level of urgency, or concrete/flexible deadline.
-**Priority:** Medium    
+**Priority:** Medium     
 **Dependencies:** ID 1
 
 ---

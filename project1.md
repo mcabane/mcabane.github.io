@@ -239,6 +239,7 @@ The user will be able to change between default and dark mode using the button.
 The theme should apply with correct colors and maintain readability.  
 **Priority:** Low  
 **Dependencies:** ID 3, ID 7
+
 ---
 
 **ID Number:** 13  

@@ -12,7 +12,7 @@ Programming Projects
 ![Senior Project](images/Senior-Project-Thumbnail.png)
 
 ---
-### [ClinVar Database Filter| CSCI 495]
+### [ClinVar Database Filter| CSCI 495](project2.md)
 
 ![ClinVar Team Project](images/ClinVar_Gene_Variants.png)
 

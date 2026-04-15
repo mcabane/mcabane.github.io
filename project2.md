@@ -59,7 +59,7 @@ Fig 4. Example of search querying.
 
 <br>
 
-![screenshot](images/File-Ready)  
+![screenshot](images/File-Ready.png)  
 Fig 5. Example of when search is complete and file is ready for download.  
 
 <br>

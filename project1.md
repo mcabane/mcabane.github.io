@@ -711,8 +711,8 @@ also handling a heavy course load which made balancing my time essential.
 I overcame that challenge by having specific check-ins every two weeks to 
 report progress to the advisor. 
 
-While working on the project construction I had to essentially learn as the 
-features were unique compared to my past projects. Looking at the Ruby on Rails 
+While working on the project construction I had to essentially learn as I progress as 
+the features were unique compared to my past projects. Looking at the Ruby on Rails 
 documentation and searching error messages were helpful in gaining more knowledge. 
 During the testing phase, having other people perform the user testing provided 
 valuable information. They were able to catch issues such as unclear text, errors 

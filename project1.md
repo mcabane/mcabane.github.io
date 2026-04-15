@@ -623,7 +623,7 @@ Fig 13. Theme when dark mode is turned on. The theme is applied to all pages.
 
 ## Test Plan
 
-###User-Acceptance Test Strategy  
+User-Acceptance Test Strategy:  
 The user acceptance testing was performed by having users test specific 
 features by following steps. The steps were general to determine if the 
 interface is intuitive. The users were observed as they performed the test. 
@@ -632,7 +632,7 @@ specific qualities, such as ease of use. Feedback was utilized to identify
 usability issues, errors, and areas of improvement. A/B testing was used 
 to help determine which layouts are more user-friendly.
 
-###User-Acceptance Test Purpose  
+User-Acceptance Test Purpose:  
 The purpose of the user acceptance testing was to determine that the web 
 application met the project requirements and identify errors that users may 
 experience when using the application for real-world use. Following each 
@@ -640,7 +640,7 @@ testing cycle, users completed a survey to provide feedback on ease of use,
 visual design, and functional performance. The feedback was used to guide 
 improvements and future enhancements.
 
-###User-Acceptance Test Objectives   
+User-Acceptance Test Objectives:  
 - Collect baseline feedback on ease of use, visual design, and functional 
 performance.
 - Refine web application based on user feedback and identified errors.
@@ -733,6 +733,6 @@ The future enhancements includes the features that were in requirements:
 - Accessibility 
 
 ## Defense Slides
-
+[Stay on Track Senior Defense Presentation](/pdf/Senior-Project-Defense.pdf)
 
 [Back to Portfolio](./)

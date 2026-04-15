@@ -613,7 +613,13 @@ the frequency of recurrence. There is also a selection option for custom.
 ![screenshot](images/Time-Unit-Select.png)  
 Fig 12. On Task creation page when selecting custom option in recurrence frequency, 
 the user will be able to select time unit and integer value.
-Ex: Time unit of weeks and input value of 2 will set frequency to every 2 weeks. 
+Ex: Time unit of weeks and input value of 2 will set frequency to every 2 weeks.
+
+<br />
+<br />
+
+![screenshot](images/Dark-Mode.png)  
+Fig 13. Theme when dark mode is turned on. The theme is applied to all pages. 
 
 ## Test Plan
 
@@ -655,6 +661,7 @@ Section 1: Ease of Use
   - 1 - Not intuitive, I was confused on how the web application worked.
   - 9 - Very intuitive, I could determine how to complete tasks without 
           confusion.
+    
 ![screenshot](images/Ease-of-Use-chart.png)
 
 
@@ -673,18 +680,20 @@ Section 2: Visual design
   professional.
   - 1 - Strongly disagree
   - 9 - Strongly agree
+    
 ![screenshot](images/Visual-Design-chart.png)
 
 Section 3: Functionality
 - How would you rate the following statement? Features worked as expected 
   without errors.
   - 1 - Strongly disagree
-  - 9 - Strongly agree
+  - 9 - Strongly agree  
 
 - How would you rate the following statement? I was able to accomplish the 
   intended tasks successfully.
   - 1 - Strongly disagree
   - 9 - Strongly agree
+    
 ![screenshot](images/Functionality-chart.png)
 
 Section 4: User Satisfaction 
@@ -692,6 +701,7 @@ Section 4: User Satisfaction
   application in real-world scenarios.
   - 1 - Strongly disagree
   - 9 - Strongly agree
+    
 ![screenshot](images/User-satisfaction-chart.png)
 
 ## Challenges Overcome
@@ -708,10 +718,8 @@ During the testing phase, having other people perform the user testing provided
 valuable information. They were able to catch issues such as unclear text, errors 
 in functions, and with the A/B testing provided input on which layout was the better. 
 
-Overall referencing guides and tutorials listed in the earlier Research and Background, 
-was useful in fixing the errors and getting the web application to its current state. 
-
- 
+Overall referencing guides and tutorials listed in the earlier Research and Background section above  
+were useful in fixing the errors and getting the web application to its current state. 
 
 ## Future Enhancements
 The future enhancements includes the features that were in requirements:

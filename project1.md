@@ -30,14 +30,19 @@ and other non-frequent tasks.
 
 ## Research & Background
 Research begin with researching types of appointments and maintenance that often get 
-forgotten. Completion of User-Interfacing Programming course. Followed by learning 
-more about Ruby on Rails, Fly.io for deployment, and turning illustrations into 
-SVG files.  
+forgotten. Completion of User-Interfacing Programming course, which is why I decided to use Ruby on Rails 
+as I had gained experience using it in the course. Followed by learning more about Ruby on Rails, Fly.io for 
+deployment, and turning illustrations into SVG files. I used Adobe Illustrator when designing all the icons
+as I have used it for several years. 
+
 Useful resources: 
 - [Ruby on Rails documentation](https://api.rubyonrails.org/classes/ActiveSupport/Duration.html#method-i-to_i)
 - [For adding User Preferences - Aneeqa Khan](https://dev.to/aneeqakhan/a-developers-guide-to-browser-storage-local-storage-session-storage-and-cookies-4c5f)
 - [CSS and Buttons - W3schools](https://www.w3schools.com/cssref/pr_pos_z-index.php)
 - [Eventlisteners - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+- [Contrast Checker - WebAIM](https://webaim.org/resources/contrastchecker/)
+- [Web Application Deployment - Fly.io](https://fly.io/docs/rails/getting-started/dockerfiles/)
+- [Dockerfile Reference - AkitaOnRails](https://akitaonrails.com/en/2026/02/20/sqlite-kamal-rails-deploy-without-drama-behind-the-m-akita-chronicles/?utm_source=copilot.com)
 - Referenced material from User-Interface Programming Course
 
 ## Project Language(s)
@@ -690,6 +695,23 @@ Section 4: User Satisfaction
 ![screenshot](images/User-satisfaction-chart.png)
 
 ## Challenges Overcome
+This project was challenging as previous projects I have completed involved 
+working in teams. Another added challenge was completing the project while 
+also handling a heavy course load which made balancing my time essential. 
+I overcame that challenge by having specific check-ins every two weeks to 
+report progress to the advisor. 
+
+While working on the project construction I had to essentially learn as the 
+features were unique compared to my past projects. Looking at the Ruby on Rails 
+documentation and searching error messages were helpful in gaining more knowledge. 
+During the testing phase, having other people perform the user testing provided 
+valuable information. They were able to catch issues such as unclear text, errors 
+in functions, and with the A/B testing provided input on which layout was the better. 
+
+Overall referencing guides and tutorials listed in the earlier Research and Background, 
+was useful in fixing the errors and getting the web application to its current state. 
+
+ 
 
 ## Future Enhancements
 The future enhancements includes the features that were in requirements:

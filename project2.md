@@ -71,5 +71,14 @@ Fig 6. Example of when invalid search resulted in failed query.
 
 ClinVar has since updated their website which means this project may no longer be able to update the database. 
 
+## 4. Other Team Members
+- Wesley Cassel
+- Raul Cabanellas
+- Kyle Clements
+- Richard Ocampo
+
+SME: Dr. Kevin S. Hughes, MD, FACS
+Data Source: ClinVar Landrum, Melissa J et al. “ClinVar: improving access to variant interpretations and supporting evidence.” Nucleic acids research vol. 46,D1 (2018): D1062-D1067. doi:10.1093/nar/gkx1153
+
 [Back to Portfolio](./)
 

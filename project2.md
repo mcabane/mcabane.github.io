@@ -42,19 +42,19 @@ Fig 1. The homepage
 
 <br/>
 
-![screenshot](images/Search-Tutorial-Section.png)
+![screenshot](images/Search-Tutorial-Section.png)  
 Fig 2. This section has the search bar and dropdown to filter the results. The section also has a short tutorial guide
 on how to use web page.  
 
 <br/>
 
-![screenshot](images/Search-Tutorial-Section.png)
+![screenshot](images/Search-Tutorial-Section.png)  
 Fig 3. This section contains information of the last database, file type selector and download button. The bottom of the 
 section displays the past searches that resulted in a failed query.  
 
 <br>
 
-![screenshot](images/Results-Querying.png)  
+![screenshot](images/Results-Querying.png)    
 Fig 4. Example of search querying.  
 
 <br>
@@ -64,7 +64,7 @@ Fig 5. Example of when search is complete and file is ready for download.
 
 <br>
 
-![screenshot](images/Invalid-Result.png)  
+![screenshot](images/Invalid-Result.png)    
 Fig 6. Example of when invalid search resulted in failed query.  
 
 ## 3. Additional Considerations

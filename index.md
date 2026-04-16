@@ -33,7 +33,7 @@ Ethics Papers
 
 ### [Ethics on Artificial Intelligence in Profressions](/pdf/Object-Oriented - Ethics Paper.pdf)
 
--   **Class: Object-Oriented Programming CSCI325**  
+-   **Class: Object-Oriented Programming CSCI 325**  
 -   **Grade: A**
 
 ### [Ethics of Testing](/pdf/Data Structures - Ethics Paper.pdf)
@@ -53,7 +53,7 @@ Presentations
 
 ### [Charity Run Website - Team](/pdf/Charity-Run-Presentation.pdf)
 
-- **Class: User Interface Programming CSCI 334** 
+- **Class: User-Interface Programming CSCI 334** 
 - **Grade: A**
 
 

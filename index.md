@@ -17,12 +17,12 @@ Programming Projects
 ![ClinVar Team Project](images/ClinVar_Gene_Variants.png)
 
 ---
-### [Charity Run Website | CSCI 334]
+### [Charity Run Website | CSCI 334](project3.md)
 
 ![Charity Run](images/Charity_Run_Home.png)
 
 ---
-### [Minefield Login| CSCI 325]
+### [Minefield Login| CSCI 325](project4.md)
 
 ![Minefield Project](images/Minefield-Start.jpg)
 

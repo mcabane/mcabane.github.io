@@ -54,7 +54,7 @@ Fig 5. Login Page.
 
 <br/>
 
-![screenshot](images/Charity-Run-Example-of-Team.png)  
+![screenshot](images/Example-of-Team.png)  
 Fig 6. Example of the user dashboard where runners can see race info and team members if they are in a team.   
 
 <br/>

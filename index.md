@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Charity Run Website | CSCI 334](project3.md)
 
-![Charity Run](images/Charity_Run_Home.png)
+![Charity Run](images/Charity-Run-Laptop-Screen-moockup.png)
 
 ---
 ### [Minefield Login| CSCI 325](project4.md)

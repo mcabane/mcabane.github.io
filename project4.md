@@ -6,7 +6,7 @@ Minefield Login
 -   **Class: Object-Oriented Programming CSCI 325** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [Minefield Login Repository](link)  
+-   **Source Code Repository:** [Minefield Login Repository](https://github.com/mcabane/CSCI-325-Minefield-Login)  
     (Please [email me](mailto:mj4cabane@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description

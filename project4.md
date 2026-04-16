@@ -69,10 +69,7 @@ Fig 8. Login Screen.
 
 <br/>
 
-## 3. Additional Considerations
-
-
-## 4. Other Team Members
+## . Other Team Members
 - Raul Cabanellas
 - Noah Huber
 - Ashton Cook  

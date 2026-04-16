@@ -62,6 +62,9 @@ Fig 6. Example of the user dashboard where runners can see race info and team me
 ![screenshot](images/Charity-Run-Admin.png)  
 Fig 7. Admin dashboard where they can see all runners and are able to grant/revoke admin or delete runners.   
 
+![screenshot](images/mobile-mockuo.png)
+Fig 8. Example of website on mobile screen. 
+
 <br/>
 
 ## 3. Additional Considerations

@@ -3,11 +3,11 @@
 Stay on Track Web Application
 ===============
 
--   **Class: CSCI 498, 499** 
+-   **Class: Senior Project Construction CSCI 498, Senior Project Implementation/Defense CSCI 499** 
 -   **Grade: In Progress** 
 -   **Language(s): Ruby, Javascript, HTML/CSS** 
--   **Source Code Repository:** [Link to Repository](https://github.com/mcabane/CSU-Senior-Project/tree/master)
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [Link to Repository](https://github.com/mcabane/CSU-Senior-Project/tree/master)  
+    (Please [email me](mailto:mj4cabane@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Statement of Purpose
 
@@ -193,7 +193,7 @@ date added for that instance of recurring tasks.
 **ID Number:** 9    
 **Type:** Look and Feel    
 **Description:**    
-Visual representation of the task progress of categories using counters.
+Visual representation of the task progress of categories using counters.  
 **Rationale:**    
 Provides a visual representation of the user’s progress and to summarize if
 certain categories are being neglected.  

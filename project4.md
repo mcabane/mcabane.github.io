@@ -15,7 +15,7 @@ This project was completed in a team of five. This project based on the idea of
 making a login tedious to complete not meant for actual real-world use. The 
 project is similar to a captcha, the user must complete a game of minesweeper 
 before being able to login. The board is 5 x 5 board with 5 bombs that must not 
-be tripped. I was the one who designed and programmed the GUI, as well as 
+be tripped. I designed and programmed the GUI, as well as 
 created the icons of the flag, bomb, and logo. 
 
 
@@ -69,7 +69,7 @@ Fig 8. Login Screen.
 
 <br/>
 
-## . Other Team Members
+## Other Team Members
 - Raul Cabanellas
 - Noah Huber
 - Ashton Cook  

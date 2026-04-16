@@ -6,9 +6,9 @@ Stay on Track Web Application
 -   **Class: Senior Project Construction CSCI 498, Senior Project Implementation/Defense CSCI 499** 
 -   **Grade: In Progress** 
 -   **Language(s): Ruby, Javascript, HTML/CSS** 
--   **Source Code Repository:** [Link to Repository](https://github.com/mcabane/CSU-Senior-Project/tree/master)  
-    (Please [email me](mailto:mj4cabane@gmail.com?subject=GitHub%20Access) to request access.)
-
+-   **Source Code Repository:** [Senior Project Repository](https://github.com/mcabane/CSU-Senior-Project/tree/master)  
+    (Please [email me](mailto:mj4cabane@gmail.com?subject=GitHub%20Access) to request access. Repository also contains link to deployed web application.)
+  
 ## Statement of Purpose
 
 When it comes to productivity and task trackers they are usually designed for students 

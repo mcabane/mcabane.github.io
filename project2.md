@@ -19,8 +19,6 @@ I also assisted with back-end integration and enabled multi-format data export o
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 Clone repository
 Install 
 - Node.js
@@ -49,8 +47,7 @@ on how to use web page.
 <br/>
 
 ![screenshot](images/Search-Tutorial-Section.png)  
-Fig 3. This section contains information of the last database, file type selector and download button. The bottom of the 
-section displays the past searches that resulted in a failed query.  
+Fig 3. This section contains information of the last database, file type selector and download button. The bottom of the section displays the past searches that resulted in a failed query.  
 
 <br>
 
@@ -66,6 +63,8 @@ Fig 5. Example of when search is complete and file is ready for download.
 
 ![screenshot](images/Invalid-Result.png)    
 Fig 6. Example of when invalid search resulted in failed query.  
+
+<br>
 
 ## 3. Additional Considerations
 

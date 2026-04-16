@@ -2,15 +2,20 @@
 ---
 
 @import "jekyll-theme-minimal";
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap');
 
 img {
   max-width: 100%;
   border: 3px solid #df6a68ff;
   border-radius: 8px;
 }
+body {
+  font-family: 'Nunito', sans-serif;
+}
 
 ul li ul {
-  margin-bottom: 1px;  
+  margin-bottom: 1px;
+  color: #1d263aff;
 }
 
 h2 {
@@ -18,5 +23,5 @@ h2 {
 }
 
 p {
-  color: black;
+  color: #1d263aff;
 }

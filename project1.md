@@ -8,6 +8,16 @@ Stay on Track Web Application
 -   **Language(s): Ruby, Javascript, HTML/CSS** 
 -   **Source Code Repository:** [Senior Project Repository](https://github.com/mcabane/CSU-Senior-Project/tree/master)  
     (Please [email me](mailto:mj4cabane@gmail.com?subject=GitHub%20Access) to request access. Repository also contains link to deployed web application.)
+
+- [Statement of Purpose](#statement-of-purpose)
+- [Research and Background](#research-and-background)
+- [Project Languages](#project-languages)
+- [Additional Software and Hardware](#additional-software-and-hardware)
+- [Project Requirements](#project-requirements)
+- [Project Implementation Description and Explanation](#project-implementation-description-and-explanation)
+- [Challenges Overcome](#challenges-overcome)
+- [Future Enhancements](#future-enhancements)
+- [Defense Slides](#defense-slides)
   
 ## Statement of Purpose
 
@@ -28,7 +38,7 @@ tasks is the Stay on Track web application. Users will be able to set recurring
 reminders of appointments, maintenance, deadlines, expiration dates of licenses/tags, 
 and other non-frequent tasks.
 
-## Research & Background
+## Research and Background
 Research begin with researching types of appointments and maintenance that often get 
 forgotten. Completion of User-Interfacing Programming course, which is why I decided to use Ruby on Rails 
 as I had gained experience using it in the course. Followed by learning more about Ruby on Rails, Fly.io for 
@@ -50,7 +60,7 @@ Useful resources:
 - Javascript
 - HTML/CSS
  
-## Additional Software & Hardware
+## Additional Software and Hardware
 - Visual Studio Code
 - Adobe Illustrator
 - Windows Personal Computer
@@ -527,7 +537,7 @@ click a reset to default button, that will return all settings to default.
 
 ---
 
-## Project Implementation Description & Explanation
+## Project Implementation Description and Explanation
 
 ![screenshot](images/Landing-Page.png)  
 Fig 1. The landing page

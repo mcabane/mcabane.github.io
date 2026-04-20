@@ -8,7 +8,8 @@ Stay on Track Web Application
 -   **Language(s): Ruby, Javascript, HTML/CSS** 
 -   **Source Code Repository:** [Senior Project Repository](https://github.com/mcabane/CSU-Senior-Project/tree/master)  
     (Please [email me](mailto:mj4cabane@gmail.com?subject=GitHub%20Access) to request access. Repository also contains link to deployed web application.)
-
+    
+## Table of Contents
 - [Statement of Purpose](#statement-of-purpose)
 - [Research and Background](#research-and-background)
 - [Project Languages](#project-languages)

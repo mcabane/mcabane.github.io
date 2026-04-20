@@ -729,8 +729,8 @@ During the testing phase, having other people perform the user testing provided
 valuable information. They were able to catch issues such as unclear text, errors 
 in functions, and with the A/B testing provided input on which layout was the better. 
 
-Overall referencing guides and tutorials listed in the earlier Research and Background section above  
-were useful in fixing the errors and getting the web application to its current state. 
+Overall referencing guides and tutorials listed in the earlier Research and Background section above,
+along with user testing were, useful in fixing the errors and getting the web application to its current state. 
 
 ## Future Enhancements
 The future enhancements includes the features that were in requirements:
